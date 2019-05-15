@@ -83,14 +83,14 @@ a:hover {
 
 .btn-red {
   background-color: #dd6031;
-  color: white;
+  color: white !important;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
 .btn-red:hover {
   background-color: #b74e28;
-  color: white;
+  color: white !important;
 }
 
 .list-inline {
