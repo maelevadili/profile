@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: #b74e28;
+  color: #b74e28 !important;
 }
 
 
